@@ -1,0 +1,6 @@
+# Personal data / user-specific files (templates are in templates/)
+memories/
+details/
+*.pyc
+__pycache__/
+.DS_Store
